@@ -1,4 +1,4 @@
-# EVG - LEARNING PYTHON
+# EVG - LEARNING WITH PYTHON
 
 Python training!
 Material do e exercícios relacionados com o curso "Learning With Python" da EVG
